@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "url": "hello",
+"domain": "123"
+"status": 200,
     }
   ],
   "profile": {
